@@ -1,2 +1,2 @@
-# EC601_project2
+# EC601_Project2
  
