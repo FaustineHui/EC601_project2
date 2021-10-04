@@ -29,13 +29,11 @@ This analysis is mainly aimed at people's emotions. In this section, we used peo
 
 ### Phase 2
 
-## MVP and User Story
-
-# Minimum Valuable Product
+## Minimum Valuable Product
 
 For my project, the minimum valuable product must include the following funtion. Convert 2D pictures into reasonable 3D models. If my product can do this, it almost reaches our goal.
 
-# User Story
+## User Story
 
 Sally wants to use her favorite model to make an independent game, so that the game she makes is more likely to be loved by everyone.
 
