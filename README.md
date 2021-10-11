@@ -40,3 +40,23 @@ Sally wants to use her favorite model to make an independent game, so that the g
 Peter wants to obtain a three-dimensional image of his favorite anime character so that he can customize a figure.
 
 As a speaker, Bob wants to use a three-dimensional model to illustrate what he is telling, so that the audience can understand it more easily.
+
+## Social Media Analyser
+
+* Modular design
+
+I think sentiment analysis will have a great effect in business. Secondly, it can also be used by psychologists and sociologists for academic analysis.
+
+So for the modular design of this product, I think it should be divided into the following parts. The interface should use web pages, and if mobile terminals are involved, a mobile app is required. At the same time, we need a background training set and training results as well as a data storage and transmission server. I am also going to add an additional training module, so that we can further study the wrong prediction, to continuously improve the accuracy of the product.
+
+1. Web page and mobile app: This should be the interface of our product. It will be publicly showed to everyone. It must have function to allow user to upload their data. Besides, it will contain the output page to show the result to the user. If the amount of data given by the user is relatively large, it will take a relatively long time. A waiting interface is necessary to tell the user that our analysis is in progress.
+
+2. Background training set and training result: If we want to give out a result to user's data, a training result must be prepared. The amount of data in the training set cannot be small to ensure the initial effect of the product. To improve its accuracy, an additional training module will be added.
+
+3. Additional training module: If customers are not satisfied with some prediction results, they can give feedback through the user interface. This module will add the corresponding data to the background data set to improve the analysis capabilities.
+
+4. Storage: A storage is necessary to store the data uploaded by the user and the final output.
+
+5. Calculation: Server part for computing.
+
+The second and fourth parts must be confidential to ensure the security of user data and the product from being copied.
