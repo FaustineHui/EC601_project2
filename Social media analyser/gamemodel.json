@@ -1,0 +1,1804 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 06 23:04:29 +0000 2021",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 981685310,
+                "id_str": "981685310",
+                "indices": [
+                    3,
+                    15
+                ],
+                "name": "Mama Jewels \ud83d\udc51",
+                "screen_name": "HumerusHomo"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1467993375458701315,
+    "id_str": "1467993375458701315",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "retweet_count": 13,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Nov 05 22:25:56 +0000 2021",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/1456749650740797450",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/UgLfh8Ejzh"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 25,
+        "favorited": false,
+        "geo": null,
+        "id": 1456749650740797450,
+        "id_str": "1456749650740797450",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "retweet_count": 13,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Are you queer and competitive? Do you want to girlboss your way to the top? Do you want to make new friends? You ca\u2026 https://t.co/UgLfh8Ejzh",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Dec 01 02:45:15 +0000 2012",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "Non-binary, they/them. Chaotic neutral. Topula winner. Engaged to the love of my life @twosidestoacoin \ud83c\udff3\ufe0f\u200d\ud83c\udf08 18+ only! \u264e\ufe0f\u264e\ufe0f\u2648\ufe0f READ PINNED THREAD",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 156747,
+            "follow_request_sent": false,
+            "followers_count": 1362,
+            "following": false,
+            "friends_count": 522,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 981685310,
+            "id_str": "981685310",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 6,
+            "location": "Unknown",
+            "name": "Mama Jewels \ud83d\udc51",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/981685310/1536122597",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1455577302880849920/Pp36pqQG_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1455577302880849920/Pp36pqQG_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "HumerusHomo",
+            "statuses_count": 74785,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": null,
+            "utc_offset": null,
+            "verified": false,
+            "withheld_in_countries": []
+        }
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "RT @HumerusHomo: Are you queer and competitive? Do you want to girlboss your way to the top? Do you want to make new friends? You can do al\u2026",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Oct 13 00:59:49 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Afro-Latino \u270a\ud83c\udfff | He/him | BI | 23 | \u2650 | snap - kxngofpeace | dm for alt",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "Instagram.com/mastermxnds",
+                        "expanded_url": "http://Instagram.com/mastermxnds",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/PG8lMGlY1b"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 198469,
+        "follow_request_sent": false,
+        "followers_count": 1073,
+        "following": false,
+        "friends_count": 1049,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1183185501081231362,
+        "id_str": "1183185501081231362",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 15,
+        "location": "NYC ",
+        "name": "Z De Haan",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1183185501081231362/1637784778",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1467319743304589313/SwHea0C9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1467319743304589313/SwHea0C9_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "mastermxnds",
+        "statuses_count": 38783,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/PG8lMGlY1b",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 06 23:04:21 +0000 2021",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 3634846752,
+                "id_str": "3634846752",
+                "indices": [
+                    3,
+                    16
+                ],
+                "name": "Elysha \ud83d\udc9c | V DAY AND TAEHYUNG OST IS COMING",
+                "screen_name": "myonlyTAEger"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1467993342558490631,
+    "id_str": "1467993342558490631",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "retweet_count": 78,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 06 22:29:55 +0000 2021",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/1467984675259957253",
+                    "indices": [
+                        121,
+                        144
+                    ],
+                    "url": "https://t.co/j4E70CT9k4"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 223,
+        "favorited": false,
+        "geo": null,
+        "id": 1467984675259957253,
+        "id_str": "1467984675259957253",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 78,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "\u2014 Model and Actress Hoyeon Jung, who acted on famous series \"Squid Game\" now following Taehyung's ig account &amp; like\u2026 https://t.co/j4E70CT9k4",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Sep 21 06:23:22 +0000 2015",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "\uadf8\ubbc0\uc2dc\ub77c\uaf2c \ud83d\udc2f \ud48d\uacbd https://t.co/Hn1C1y55Wq \ud83c\udf42\ud83c\udf43 Winter Bear https://t.co/MQgzwFNazh \u2744\ud83d\udc3b",
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "soundcloud.com/bangtan/kimv01",
+                            "expanded_url": "http://soundcloud.com/bangtan/kimv01",
+                            "indices": [
+                                11,
+                                34
+                            ],
+                            "url": "https://t.co/Hn1C1y55Wq"
+                        },
+                        {
+                            "display_url": "soundcloud.com/bangtan/kimv02",
+                            "expanded_url": "http://soundcloud.com/bangtan/kimv02",
+                            "indices": [
+                                50,
+                                73
+                            ],
+                            "url": "https://t.co/MQgzwFNazh"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "youtu.be/p8npDG2ulKQ",
+                            "expanded_url": "https://youtu.be/p8npDG2ulKQ",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/jD4rROZMgS"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 45308,
+            "follow_request_sent": false,
+            "followers_count": 59196,
+            "following": false,
+            "friends_count": 454,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 3634846752,
+            "id_str": "3634846752",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 317,
+            "location": "",
+            "name": "Elysha \ud83d\udc9c | V DAY AND TAEHYUNG OST IS COMING",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3634846752/1577880844",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1304011575158661127/anO-x1ic_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1304011575158661127/anO-x1ic_normal.jpg",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "myonlyTAEger",
+            "statuses_count": 95585,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/jD4rROZMgS",
+            "utc_offset": null,
+            "verified": false,
+            "withheld_in_countries": []
+        }
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "RT @myonlyTAEger: \u2014 Model and Actress Hoyeon Jung, who acted on famous series \"Squid Game\" now following Taehyung's ig account &amp; liked his\u2026",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Aug 09 04:50:41 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "\u00a0\u00a0\u2800\u00a0\u2800\u2800\u00a0\u2800\u2800\ud811\ude13. . . #1 worldwide it boy ; kth . \u22c6 \ud80c\udc83 !",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "paypal.com/pools/c/8wmuua\u2026",
+                        "expanded_url": "https://www.paypal.com/pools/c/8wmuuaIGqV",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/n1LkG1fDlV"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 24774,
+        "follow_request_sent": false,
+        "followers_count": 1245,
+        "following": false,
+        "friends_count": 1336,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1292322329494728704,
+        "id_str": "1292322329494728704",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "dayna V OST",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1292322329494728704/1623015417",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1460438066477383680/3ElBcfCA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1460438066477383680/3ElBcfCA_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "THC0RE",
+        "statuses_count": 19488,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/n1LkG1fDlV",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 06 23:03:16 +0000 2021",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 714011887164203008,
+                "id_str": "714011887164203008",
+                "indices": [
+                    3,
+                    15
+                ],
+                "name": "TKG",
+                "screen_name": "TheTKGlobal"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1467993069983354880,
+    "id_str": "1467993069983354880",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "retweet_count": 112,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 06 21:16:28 +0000 2021",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/1467966194166616064",
+                    "indices": [
+                        121,
+                        144
+                    ],
+                    "url": "https://t.co/WIMcbv3qLi"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 554,
+        "favorited": false,
+        "geo": null,
+        "id": 1467966194166616064,
+        "id_str": "1467966194166616064",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 112,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "\ud83d\udcd1| HoYeon Jung, a South Korean model &amp; actress, most notably known for playing 'Kang Sae-byeok' in 'Squid Game', li\u2026 https://t.co/WIMcbv3qLi",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Mar 27 08:51:14 +0000 2016",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "TaeKook Global: Fanbase for the best unit, BTS V & JK || Funds: https://t.co/b5ML0RrUfh || E-mail: thetaekookglobal@gmail.com",
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "tkunionfunds.carrd.co",
+                            "expanded_url": "http://tkunionfunds.carrd.co",
+                            "indices": [
+                                64,
+                                87
+                            ],
+                            "url": "https://t.co/b5ML0RrUfh"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "taekookartistry.carrd.co",
+                            "expanded_url": "http://taekookartistry.carrd.co",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/CeOUlEYbyi"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 9304,
+            "follow_request_sent": false,
+            "followers_count": 182833,
+            "following": false,
+            "friends_count": 82,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 714011887164203008,
+            "id_str": "714011887164203008",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 835,
+            "location": "new admins from march 2021 ",
+            "name": "TKG",
+            "notifications": false,
+            "profile_background_color": "F58EA8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/714011887164203008/1635951727",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1455913186490662922/u0hR0Lh5_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1455913186490662922/u0hR0Lh5_normal.jpg",
+            "profile_link_color": "E5769F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "TheTKGlobal",
+            "statuses_count": 23845,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/CeOUlEYbyi",
+            "utc_offset": null,
+            "verified": false,
+            "withheld_in_countries": []
+        }
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "RT @TheTKGlobal: \ud83d\udcd1| HoYeon Jung, a South Korean model &amp; actress, most notably known for playing 'Kang Sae-byeok' in 'Squid Game', like Taeh\u2026",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Apr 16 02:46:56 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "bangtan y iu =\ud83c\udfe9\u2661",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 77943,
+        "follow_request_sent": false,
+        "followers_count": 165,
+        "following": false,
+        "friends_count": 243,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1382888086045134857,
+        "id_str": "1382888086045134857",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "esperando bangtan ft grupo 5",
+        "name": "Steff\u2606 V OST!\u00a1",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1382888086045134857/1636401961",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1461204054281965575/3A9iBhVS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1461204054281965575/3A9iBhVS_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "taehyungowo_",
+        "statuses_count": 6015,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 06 23:02:48 +0000 2021",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 3634846752,
+                "id_str": "3634846752",
+                "indices": [
+                    3,
+                    16
+                ],
+                "name": "Elysha \ud83d\udc9c | V DAY AND TAEHYUNG OST IS COMING",
+                "screen_name": "myonlyTAEger"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1467992950936412161,
+    "id_str": "1467992950936412161",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "retweet_count": 78,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 06 22:29:55 +0000 2021",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/1467984675259957253",
+                    "indices": [
+                        121,
+                        144
+                    ],
+                    "url": "https://t.co/j4E70CT9k4"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 223,
+        "favorited": false,
+        "geo": null,
+        "id": 1467984675259957253,
+        "id_str": "1467984675259957253",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 78,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "\u2014 Model and Actress Hoyeon Jung, who acted on famous series \"Squid Game\" now following Taehyung's ig account &amp; like\u2026 https://t.co/j4E70CT9k4",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Sep 21 06:23:22 +0000 2015",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "\uadf8\ubbc0\uc2dc\ub77c\uaf2c \ud83d\udc2f \ud48d\uacbd https://t.co/Hn1C1y55Wq \ud83c\udf42\ud83c\udf43 Winter Bear https://t.co/MQgzwFNazh \u2744\ud83d\udc3b",
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "soundcloud.com/bangtan/kimv01",
+                            "expanded_url": "http://soundcloud.com/bangtan/kimv01",
+                            "indices": [
+                                11,
+                                34
+                            ],
+                            "url": "https://t.co/Hn1C1y55Wq"
+                        },
+                        {
+                            "display_url": "soundcloud.com/bangtan/kimv02",
+                            "expanded_url": "http://soundcloud.com/bangtan/kimv02",
+                            "indices": [
+                                50,
+                                73
+                            ],
+                            "url": "https://t.co/MQgzwFNazh"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "youtu.be/p8npDG2ulKQ",
+                            "expanded_url": "https://youtu.be/p8npDG2ulKQ",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/jD4rROZMgS"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 45308,
+            "follow_request_sent": false,
+            "followers_count": 59196,
+            "following": false,
+            "friends_count": 454,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 3634846752,
+            "id_str": "3634846752",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 317,
+            "location": "",
+            "name": "Elysha \ud83d\udc9c | V DAY AND TAEHYUNG OST IS COMING",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3634846752/1577880844",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1304011575158661127/anO-x1ic_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1304011575158661127/anO-x1ic_normal.jpg",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "myonlyTAEger",
+            "statuses_count": 95585,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/jD4rROZMgS",
+            "utc_offset": null,
+            "verified": false,
+            "withheld_in_countries": []
+        }
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "RT @myonlyTAEger: \u2014 Model and Actress Hoyeon Jung, who acted on famous series \"Squid Game\" now following Taehyung's ig account &amp; liked his\u2026",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Nov 24 21:30:58 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "if ur fav has what it takes, try to beat my man's talents & success WITHOUT downplaying him, using dirty tricks, manipulating & using bot. pjms? fuck off!\u263a",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 38196,
+        "follow_request_sent": false,
+        "followers_count": 173,
+        "following": false,
+        "friends_count": 329,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1198715574823669760,
+        "id_str": "1198715574823669760",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "#TaehyungOSTisComing",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1198715574823669760/1629630744",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1435189632971558914/scEN6yeJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1435189632971558914/scEN6yeJ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AllAbout__Tae",
+        "statuses_count": 39200,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 06 23:02:44 +0000 2021",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 326359913,
+                "id_str": "326359913",
+                "indices": [
+                    3,
+                    10
+                ],
+                "name": "CHANEL",
+                "screen_name": "CHANEL"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1467992933609746432,
+    "id_str": "1467992933609746432",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "retweet_count": 97,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 06 13:00:02 +0000 2021",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/1467841262128549891",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/uPTTjGe1mr"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 481,
+        "favorited": false,
+        "geo": null,
+        "id": 1467841262128549891,
+        "id_str": "1467841262128549891",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 97,
+        "retweeted": false,
+        "source": "<a href=\"https://twitter.com\" rel=\"nofollow\">Twitter for Advertisers</a>",
+        "text": "The CHANEL two-tone pumps made by the shoemaker Massaro come to life in a game of hide-and-seek with model Rianne V\u2026 https://t.co/uPTTjGe1mr",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Jun 29 19:57:54 +0000 2011",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "'CHANEL is above all a style. Fashion passes, style remains.' Gabrielle Chanel",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "chanel.com",
+                            "expanded_url": "http://www.chanel.com",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/Ujj6aP2v9p"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 0,
+            "follow_request_sent": false,
+            "followers_count": 13329056,
+            "following": false,
+            "friends_count": 1,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 326359913,
+            "id_str": "326359913",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 11173,
+            "location": "",
+            "name": "CHANEL",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/326359913/1637137383",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1154314010252206080/eAG6xnof_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1154314010252206080/eAG6xnof_normal.jpg",
+            "profile_link_color": "000000",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "666666",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "CHANEL",
+            "statuses_count": 3731,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/Ujj6aP2v9p",
+            "utc_offset": null,
+            "verified": true,
+            "withheld_in_countries": []
+        }
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "RT @CHANEL: The CHANEL two-tone pumps made by the shoemaker Massaro come to life in a game of hide-and-seek with model Rianne Van Rompaey.\u2026",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Sep 02 20:00:28 +0000 2018",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Step into my world \ud83d\udc96\ud83d\udc85\ud83d\udc8b",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 9781,
+        "follow_request_sent": false,
+        "followers_count": 69,
+        "following": false,
+        "friends_count": 236,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1036343119317544962,
+        "id_str": "1036343119317544962",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Luton, England",
+        "name": "SiobhanClarke7",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1036343119317544962/1638350352",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1465973749480624134/yss3g1R-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1465973749480624134/yss3g1R-_normal.jpg",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "SiobhanChick7",
+        "statuses_count": 10450,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 06 23:02:33 +0000 2021",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 714011887164203008,
+                "id_str": "714011887164203008",
+                "indices": [
+                    3,
+                    15
+                ],
+                "name": "TKG",
+                "screen_name": "TheTKGlobal"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1467992888470507523,
+    "id_str": "1467992888470507523",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "retweet_count": 112,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 06 21:16:28 +0000 2021",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/1467966194166616064",
+                    "indices": [
+                        121,
+                        144
+                    ],
+                    "url": "https://t.co/WIMcbv3qLi"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 554,
+        "favorited": false,
+        "geo": null,
+        "id": 1467966194166616064,
+        "id_str": "1467966194166616064",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 112,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "\ud83d\udcd1| HoYeon Jung, a South Korean model &amp; actress, most notably known for playing 'Kang Sae-byeok' in 'Squid Game', li\u2026 https://t.co/WIMcbv3qLi",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Mar 27 08:51:14 +0000 2016",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "TaeKook Global: Fanbase for the best unit, BTS V & JK || Funds: https://t.co/b5ML0RrUfh || E-mail: thetaekookglobal@gmail.com",
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "tkunionfunds.carrd.co",
+                            "expanded_url": "http://tkunionfunds.carrd.co",
+                            "indices": [
+                                64,
+                                87
+                            ],
+                            "url": "https://t.co/b5ML0RrUfh"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "taekookartistry.carrd.co",
+                            "expanded_url": "http://taekookartistry.carrd.co",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/CeOUlEYbyi"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 9304,
+            "follow_request_sent": false,
+            "followers_count": 182833,
+            "following": false,
+            "friends_count": 82,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 714011887164203008,
+            "id_str": "714011887164203008",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 835,
+            "location": "new admins from march 2021 ",
+            "name": "TKG",
+            "notifications": false,
+            "profile_background_color": "F58EA8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/714011887164203008/1635951727",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1455913186490662922/u0hR0Lh5_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1455913186490662922/u0hR0Lh5_normal.jpg",
+            "profile_link_color": "E5769F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "TheTKGlobal",
+            "statuses_count": 23845,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/CeOUlEYbyi",
+            "utc_offset": null,
+            "verified": false,
+            "withheld_in_countries": []
+        }
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "RT @TheTKGlobal: \ud83d\udcd1| HoYeon Jung, a South Korean model &amp; actress, most notably known for playing 'Kang Sae-byeok' in 'Squid Game', like Taeh\u2026",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Dec 11 04:25:52 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": true,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 232635,
+        "follow_request_sent": false,
+        "followers_count": 183,
+        "following": false,
+        "friends_count": 276,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1072346705096396800,
+        "id_str": "1072346705096396800",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3,
+        "location": "",
+        "name": "Siewlynn Chua",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SiewlynnC",
+        "statuses_count": 271121,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 06 23:02:16 +0000 2021",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 139225910,
+                "id_str": "139225910",
+                "indices": [
+                    3,
+                    15
+                ],
+                "name": "Ray",
+                "screen_name": "LtDanUSAFX3"
+            },
+            {
+                "id": 2246586798,
+                "id_str": "2246586798",
+                "indices": [
+                    17,
+                    26
+                ],
+                "name": "Bigfry\ud83c\udf5f",
+                "screen_name": "BigfryTV"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1467992817846734848,
+    "id_str": "1467992817846734848",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 06 22:54:22 +0000 2021",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/1467990829490970631",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/l5gAigZtMH"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 2246586798,
+                    "id_str": "2246586798",
+                    "indices": [
+                        0,
+                        9
+                    ],
+                    "name": "Bigfry\ud83c\udf5f",
+                    "screen_name": "BigfryTV"
+                }
+            ]
+        },
+        "favorite_count": 2,
+        "favorited": false,
+        "geo": null,
+        "id": 1467990829490970631,
+        "id_str": "1467990829490970631",
+        "in_reply_to_screen_name": "BigfryTV",
+        "in_reply_to_status_id": 1467987983882141696,
+        "in_reply_to_status_id_str": "1467987983882141696",
+        "in_reply_to_user_id": 2246586798,
+        "in_reply_to_user_id_str": "2246586798",
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "retweet_count": 1,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "@BigfryTV Not only that, but asset flip doesn't mean bad.\n\nWhy spend valuable time and money paying someone to mode\u2026 https://t.co/l5gAigZtMH",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat May 01 23:50:05 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "youtube.com/channel/UC7qEk\u2026",
+                            "expanded_url": "https://www.youtube.com/channel/UC7qEk6NED8qQ_pLnZ9TfYHg",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/DbiNcxG5p9"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 30047,
+            "follow_request_sent": false,
+            "followers_count": 122,
+            "following": false,
+            "friends_count": 355,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 139225910,
+            "id_str": "139225910",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 2,
+            "location": "Ohio, USA",
+            "name": "Ray",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/139225910/1600298678",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1292951911541481472/aTTM_51p_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1292951911541481472/aTTM_51p_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "LtDanUSAFX3",
+            "statuses_count": 291,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/DbiNcxG5p9",
+            "utc_offset": null,
+            "verified": false,
+            "withheld_in_countries": []
+        }
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LtDanUSAFX3: @BigfryTV Not only that, but asset flip doesn't mean bad.\n\nWhy spend valuable time and money paying someone to model an AK\u2026",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jun 01 04:09:27 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Making @PrimalDominion, Past work: Ready Or Not, Galactic Contention, Warbox. Proudly serving my country at the same time. Views/opinions expressed are my own.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 17823,
+        "follow_request_sent": false,
+        "followers_count": 109,
+        "following": false,
+        "friends_count": 577,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 870130145985679360,
+        "id_str": "870130145985679360",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "San Diego, CA",
+        "name": "Tay",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/870130145985679360/1636867107",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1459752276961075204/9NH-c4rv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1459752276961075204/9NH-c4rv_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "taywtv",
+        "statuses_count": 4940,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 06 23:01:37 +0000 2021",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 922944793767944192,
+                "id_str": "922944793767944192",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "We need more Bateman(CEO of halo/PAYDAY 2)",
+                "screen_name": "hoxton_twat"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1467992655674101768,
+    "id_str": "1467992655674101768",
+    "in_reply_to_screen_name": "hoxton_twat",
+    "in_reply_to_status_id": 1467986404563210240,
+    "in_reply_to_status_id_str": "1467986404563210240",
+    "in_reply_to_user_id": 922944793767944192,
+    "in_reply_to_user_id_str": "922944793767944192",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@hoxton_twat That's not the MK VII we have in game.\n\nDifferent model.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 07 01:39:18 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "I like to lift weights and wear sunscreen",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 9949,
+        "follow_request_sent": false,
+        "followers_count": 57,
+        "following": false,
+        "friends_count": 193,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1358228779030753280,
+        "id_str": "1358228779030753280",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Zanzibar HQ, Mars",
+        "name": "Internet Age EdBoy",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1358228779030753280/1634342826",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1467325698197147657/pVj-ktPy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1467325698197147657/pVj-ktPy_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "liquid_edboy",
+        "statuses_count": 2935,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 06 23:00:07 +0000 2021",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1467992278685962240",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/EylcfTT5t0"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 165961101,
+                "id_str": "165961101",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "J. Walton",
+                "screen_name": "ludopolitics"
+            },
+            {
+                "id": 65121295,
+                "id_str": "65121295",
+                "indices": [
+                    14,
+                    23
+                ],
+                "name": "Jesse Abelman",
+                "screen_name": "Jesseabe"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1467992278685962240,
+    "id_str": "1467992278685962240",
+    "in_reply_to_screen_name": "Pandatheist",
+    "in_reply_to_status_id": 1467991056759279625,
+    "in_reply_to_status_id_str": "1467991056759279625",
+    "in_reply_to_user_id": 240569427,
+    "in_reply_to_user_id_str": "240569427",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@ludopolitics @Jesseabe On the flipside you have a core set with a tight rules and expand out the setting or gm too\u2026 https://t.co/EylcfTT5t0",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jan 20 06:43:32 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Layla (She/Her) Spelling disaster. Archive @ https://t.co/GIxh2eNkbb . Reading @ https://t.co/lEavvsVsuk . Profile pic by @FarynHughes . Background by @fbaerald",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "linktr.ee/Pandatheist",
+                        "expanded_url": "http://linktr.ee/Pandatheist",
+                        "indices": [
+                            45,
+                            68
+                        ],
+                        "url": "https://t.co/GIxh2eNkbb"
+                    },
+                    {
+                        "display_url": "twitch.tv/pandatheist",
+                        "expanded_url": "http://twitch.tv/pandatheist",
+                        "indices": [
+                            81,
+                            104
+                        ],
+                        "url": "https://t.co/lEavvsVsuk"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "boneboxchant.wordpress.com",
+                        "expanded_url": "https://boneboxchant.wordpress.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/iK4B2v5FXw"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 51884,
+        "follow_request_sent": false,
+        "followers_count": 2205,
+        "following": false,
+        "friends_count": 1842,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 240569427,
+        "id_str": "240569427",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 24,
+        "location": "Twitter Mostly",
+        "name": "Pandatheist",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/240569427/1628171506",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1447963200381652996/thcXaN7z_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1447963200381652996/thcXaN7z_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Pandatheist",
+        "statuses_count": 23004,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/iK4B2v5FXw",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 06 22:59:41 +0000 2021",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1363450450415132673,
+                "id_str": "1363450450415132673",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "Tom Henderson",
+                "screen_name": "_Tom_Henderson_"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1467992169612931075,
+    "id_str": "1467992169612931075",
+    "in_reply_to_screen_name": "_Tom_Henderson_",
+    "in_reply_to_status_id": 1467982677768818694,
+    "in_reply_to_status_id_str": "1467982677768818694",
+    "in_reply_to_user_id": 1363450450415132673,
+    "in_reply_to_user_id_str": "1363450450415132673",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@_Tom_Henderson_ Really bummed to hear that the next game will be a hero shooter that gets away from the army vs. army model",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Nov 12 18:05:00 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Freelance writer at @businessinsider. Lover of technology, space, and cars. Per Audacia Ad Astra",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 19623,
+        "follow_request_sent": false,
+        "followers_count": 229,
+        "following": false,
+        "friends_count": 142,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 410880935,
+        "id_str": "410880935",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 14,
+        "location": "California ",
+        "name": "Nick Terry \ud83c\udf84",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/410880935/1638251257",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1400891987394367495/Ue70MF8v_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1400891987394367495/Ue70MF8v_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "LockheedGuy",
+        "statuses_count": 7783,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

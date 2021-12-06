@@ -6,10 +6,14 @@ from tweepy import OAuthHandler
 import json
 import os
 
-consumer_key = 'MBcExfr5FfXZdI47kDmUH8XrJ'
-consumer_secret = 'fawfPjqtC4GqAIVCPz9iUUoHH8XP2kpWmfQmMFrQbtqE3ihmIH'
-access_key = '1439356284529221637-w7oLiJuRtpfZ2bR4ZsKxco25wN6W7R'
-access_secret = 'IbUfiw7g5drxAhYG14ueD5tr5FQ42RuTWewiE0a5wMqNT'
+f = open("key.txt")
+
+consumer_key = f.readline().strip()
+consumer_secret = f.readline().strip()
+access_key = f.readline().strip()
+access_secret = f.readline().strip()
+
+f.close()
 
 
 def find_tag_tweets(searchhash):
@@ -27,4 +31,4 @@ def find_tag_tweets(searchhash):
 
 
 if __name__ == '__main__':
-    find_tag_tweets("blackmythwukng")
+    find_tag_tweets("game model")

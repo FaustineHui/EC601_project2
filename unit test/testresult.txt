@@ -1,0 +1,12 @@
+Launching pytest with arguments D:/pythonproject/TwitterAPI/test_100.py --no-header --no-summary -q in D:\pythonproject\TwitterAPI
+
+============================= test session starts =============================
+collecting ... collected 1 item
+
+test_100.py::test_answer PASSED                                          [100%]Writing tweet objects to JSON please wait...
+Done
+
+
+============================== 1 passed in 0.49s ==============================
+
+Process finished with exit code 0

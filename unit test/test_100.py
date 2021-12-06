@@ -1,15 +1,17 @@
-# encoding: utf-8
-# Author: Zehao Hui
-
+import pytest
 import tweepy
 from tweepy import OAuthHandler
 import json
 import os
 
-consumer_key = 'MBcExfr5FfXZdI47kDmUH8XrJ'
-consumer_secret = 'fawfPjqtC4GqAIVCPz9iUUoHH8XP2kpWmfQmMFrQbtqE3ihmIH'
-access_key = '1439356284529221637-w7oLiJuRtpfZ2bR4ZsKxco25wN6W7R'
-access_secret = 'IbUfiw7g5drxAhYG14ueD5tr5FQ42RuTWewiE0a5wMqNT'
+f = open("key.txt")
+
+consumer_key = f.readline().strip()
+consumer_secret = f.readline().strip()
+access_key = f.readline().strip()
+access_secret = f.readline().strip()
+
+f.close()
 
 
 def find_tag_tweets(searchhash):
@@ -19,12 +21,19 @@ def find_tag_tweets(searchhash):
     search_results = api.search_tweets(q=searchhash, count=10)
     file = open('tagfind.json', 'w')
     print("Writing tweet objects to JSON please wait...")
+    num = 0
     for status in search_results:
         json.dump(status._json, file, sort_keys=True, indent=4)
+        num = num + 1
 
     print("Done")
     file.close()
+    return num
 
 
-if __name__ == '__main__':
-    find_tag_tweets("blackmythwukng")
+def test_answer():
+    assert find_tag_tweets("game model") == 10
+
+
+if __name__ == "__main__":
+    pytest.main()

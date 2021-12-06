@@ -60,3 +60,5 @@ So for the modular design of this product, I think it should be divided into the
 5. Calculation: Server part for computing.
 
 The second and fourth parts must be confidential to ensure the security of user data and the product from being copied.
+
+In this part, I also use twitter API to do it and I try to find with tag game model and that is what I want. From the number of the result I get, I can see how many people are interested in this area and my project will be useful.
